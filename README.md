@@ -1,0 +1,2 @@
+# Champagne-Insights-Unveiling-Sales-Trends-for-Perrin-Freres
+This project analyzes historical monthly sales data for Perrin Freres, a leading champagne manufacturer, to identify seasonal trends and peak demand periods. Utilizing advanced analytical techniques, we aim to inform production planning and optimize marketing strategies, ensuring alignment with consumer demand and enhancing operational efficiency.
